@@ -20,8 +20,8 @@ An innovative platform designed to revolutionize how users approach fitness and 
 
 ## 📸 Screenshots
 <!-- Add your project screenshots here -->
-![Home Page](./screenshots/screenshotwebsite.png)
-![AI ChatBot](./screenshots/chatbot.png)
+![Home Page](https://github.com/deep-gits/AI-Powered-Fitness-Website/issues/1#issue-3247167597)
+![AI ChatBot](https://github.com/deep-gits/AI-Powered-Fitness-Website/issues/1#issue-3247167597)
 
 
 
