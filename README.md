@@ -20,7 +20,7 @@ An innovative platform designed to revolutionize how users approach fitness and 
 
 ## 📸 Screenshots
 <!-- Add your project screenshots here -->
-![Home Page]()
+![Home Page](./screenshots/screenshotwebsite.png)
 ![AI ChatBot](./screenshots/chatbot.png)
 
 
