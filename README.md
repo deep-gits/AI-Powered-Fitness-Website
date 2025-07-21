@@ -1,11 +1,33 @@
-## AI Powered Fitness Website
+# 🧠 AI Powered Fitness Website
 
-**Duration:** Sep 2024 – Dec 2024  
-An innovative web platform designed to revolutionize how users approach fitness and health.
+An innovative platform designed to revolutionize how users approach fitness and health using AI technology.
 
-### Features
-- 💻 Developed the UI using **HTML**, **CSS**, and **JavaScript**
-- 🤖 Integrated **Gemini API** for an **AI-powered chatbot**
-- 🏋️ Offers **personalized fitness plans**, **dietary suggestions**, and **real-time progress tracking**
+## 📅 Duration
+**September 2024 – December 2024**
 
-This project helps users achieve their health goals effectively by combining modern web technologies with AI-driven insights.
+## 🚀 Features
+- 💻 Built the front-end using **HTML**, **CSS**, and **JavaScript**
+- 🤖 Integrated the **Gemini API** to enable an AI-powered chatbot
+- 🏋️‍♂️ Offers:
+  - Personalized fitness plans
+  - Dietary suggestions
+  - Real-time progress tracking
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **API Integration:** Gemini API
+- **Tools:** Visual Studio Code, Git, GitHub
+
+## 📸 Screenshots
+<!-- Add your project screenshots here -->
+![Home Page]()
+![AI ChatBot](./screenshots/chatbot.png)
+
+
+
+## 📦 Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/deep-gits/ai-fitness-website.git
+   cd ai-fitness-website
